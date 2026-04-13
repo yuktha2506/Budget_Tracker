@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-04-13",
+    "type": "income",
+    "category": "Salary",
+    "description": "Salary",
+    "amount": 50000.0
+  },
+  {
+    "date": "2026-04-13",
+    "type": "expense",
+    "category": "Food",
+    "description": "Food Bill",
+    "amount": 2000.0
+  }
+]
